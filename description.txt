@@ -1,0 +1,8 @@
+in this app i intend to explain you (user) enter a number (a random number) and enter the number of tries 
+and then the programme speculates the number that can be added together to equal the valie of the number you entered randomly 
+an example 
+20 can be formed from on of thoes 
+5+5+5+5
+or 10+10
+or 7+4+5+4
+and the number of tries is the number that the programme will try to find number that can be added together to equal the randomly selected number.
